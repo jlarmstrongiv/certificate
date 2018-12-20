@@ -7,6 +7,7 @@
 
 ## Instructions
 
+- [Install](https://nodejs.org/en/download/) Node.js
 - Change the project `name` in the `package.json`
 - Recreate the design in `./mockup`
   - Resources are available in `./src/resources/`
